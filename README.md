@@ -28,17 +28,11 @@ A simple and fast QR Code Generator built using HTML, CSS, and JavaScript.
 3. Click **Generate QR Code**
 4. Your QR code will be displayed instantly
 
-## 📸 Screenshot
-(Add screenshot here after uploading project)
-
 ## 🔮 Future Improvements
 - Download QR Code as image
 - Change QR size dynamically
 - Dark mode support
 
 ## 👨‍💻 Author
-Your Name
-
----
-
-⭐ If you like this project, give it a star!
+**Jay ram**  
+GitHub: https://github.com/jayram333
