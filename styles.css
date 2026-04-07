@@ -86,3 +86,10 @@
       font-size: 14px;
     }
   }
+#downloadBtn {
+  display: none;
+  margin-top: 10px;
+}
+button {
+  margin-top: 10px;
+}
