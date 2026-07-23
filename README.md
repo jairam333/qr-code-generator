@@ -35,5 +35,5 @@ A simple and fast QR Code Generator built using HTML, CSS, and JavaScript.
 
 ## 👨‍💻 Author
 **Jay ram**  
-Btech - Information Technology | Frontend Developer
+Btech - Information Technology | Frontend Developer |
 GitHub: https://github.com/jayram333
